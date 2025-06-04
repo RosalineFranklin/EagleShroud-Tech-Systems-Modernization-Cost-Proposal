@@ -3,30 +3,30 @@ Built entirely from a mock Request for Proposal (RFP), this project demonstrates
 
 Key Deliverables:
 
-    RFP Document outlining CLINs, labor roles, periods of performance, and contract structure
+   - RFP Document outlining CLINs, labor roles, periods of performance, and contract structure
 
-    Powerpoint Slidedeck summarizing different sections of the Pricing Model Workbook
+   - Powerpoint Slidedeck summarizing different sections of the Pricing Model Workbook
 
-    RPP Matrix Document detailing compliance and directs RFP sections to appropriate document or tab in the Pricing Model Workbook
+   - RPP Matrix Document detailing compliance and directs RFP sections to appropriate document or tab in the Pricing Model Workbook
 
-    Basis of Estimate (BOE) with quantitative labor hour justification and cost assumptions
+   - Basis of Estimate (BOE) with quantitative labor hour justification and cost assumptions
 
-    Pricing Volume Narrative detailing methodology, indirect rates, ODC handling, fee policy, and compliance notes
+   - Pricing Volume Narrative detailing methodology, indirect rates, ODC handling, fee policy, and compliance notes
 
-    Excel Pricing Model including burdened labor pricing, ODCs, CLIN breakout, scenario support, and dashboard
+   - Excel Pricing Model including burdened labor pricing, ODCs, CLIN breakout, scenario support, and dashboard
 
-    Project Overview Document summarizing the contract environment, pricing strategy, and key assumptions
+   - Project Overview Document summarizing the contract environment, pricing strategy, and key assumptions
 
 Key Features:
 
-    Breakdowns of hours, labor cost estimations between base year and option year
+   - Breakdowns of hours, labor cost estimations between base year and option year
     
-    Transparent labor hour justification mapped to CLINs and functional roles
+   - Transparent labor hour justification mapped to CLINs and functional roles
 
-    Complete burdening of fringe, overhead, G&A, and fee in line with T&M pricing practices
+   - Complete burdening of fringe, overhead, G&A, and fee in line with T&M pricing practices
 
-    ODC treatment with applied fee and traceability across tabs and documents
+   - ODC treatment with applied fee and traceability across tabs and documents
 
-    Visual pricing dashboard with pie and bar charts, contract totals, and role-level breakdowns
+   - Visual pricing dashboard with pie and bar charts, contract totals, and role-level breakdowns
 
-    DCAA/DCMA-audit-ready workbook structure and note boxes for compliance traceability
+   - DCAA/DCMA-audit-ready workbook structure and note boxes for compliance traceability
